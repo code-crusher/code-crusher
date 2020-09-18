@@ -5,8 +5,7 @@
 - 💬 Always up to contribute in your open source projects.
 - 📫 Feel free to email me at _vatsal.bajpai05@gmail.com_.
 
-### Skill sets
-Some of the technologies I work on on a day to day basis:
+#### Some of the technologies I work on on a day to day basis:
 
 | Technology | Languages                                      |
 |------------|------------------------------------------------|
