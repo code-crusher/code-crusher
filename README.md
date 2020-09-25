@@ -14,6 +14,6 @@
 | Platform | ![](https://img.shields.io/badge/Nginx-%20-green)  ![](https://img.shields.io/badge/Docker-%20-blue)  ![](https://img.shields.io/badge/Kubernetes-%20-blueviolet) |
 | Streaming | ![](https://img.shields.io/badge/Apache%20Kafka-%20-red)  ![](https://img.shields.io/badge/Apache%20Spark-%20-orange) |
 | Database | ![](https://img.shields.io/badge/PostgresSQL-%20-blue)  ![](https://img.shields.io/badge/DynamoDB-%20-yellow) |
-| Data Pipelines | ![](https://img.shields.io/badge/Apache%20Druid-%20-blue)| 
+| Data Aggregation | ![](https://img.shields.io/badge/Apache%20Druid-%20-blue)| 
 | Mobile | ![](https://img.shields.io/badge/Android-%20-green)  ![](https://img.shields.io/badge/Unity-%20-white)
 
