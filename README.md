@@ -1,7 +1,6 @@
 ### Hi humans, bots, and future AI overlords 👋
 
 - 🔭 I'm an engineer who works end-to-end product/platform development.
-- 🌱 I’m currently building [https://assistdesk.co](https://assistdesk.co)
 - 💬 Always up to contribute in your open source projects.
 - 📫 Feel free to email me at _vatsal.bajpai05@gmail.com_.
 
