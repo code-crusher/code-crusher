@@ -3,7 +3,7 @@
 - 🔭 I'm an engineer who works end-to-end product/platform development.
 - 💬 Always up to contribute in your open source projects.
 - 📫 Feel free to email me at _vatsal.bajpai05@gmail.com_.
-- Currently building https://github.com/Gravity-Chain -- world's first mobile powered blockchain!
+- Currently building https://github.com/GravityCloudAI -- AI powered Internal Developer Portal
 
 #### Some of the technologies I work on on a day to day basis:
 
